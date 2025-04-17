@@ -1,0 +1,16 @@
+[
+    {
+        "title": "2",
+        "author": "3",
+        "year": "4",
+        "genre": "5",
+        "read": false
+    },
+    {
+        "title": "",
+        "author": "",
+        "year": "",
+        "genre": "",
+        "read": false
+    }
+]
